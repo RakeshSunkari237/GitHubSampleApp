@@ -8,6 +8,7 @@ public class GitHubSampleAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitHubSampleAppApplication.class, args);
+		System.out.println("For understand pull concept");
 	}
 
 }
